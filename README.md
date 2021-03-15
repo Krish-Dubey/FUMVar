@@ -2,10 +2,10 @@
 We used python 3.5 version.
 
 ## Project members
-* Beomjin Jin, Sungkyunkwan University, Suwon, Republic of Korea
-* Jusop Choi, Sungkyunkwan University, Suwon, Republic of Korea
-* Hyoungshick Kim, Sungkyunkwan University, Suwon, Republic of Korea
-* Jin B. Hong, University of Western Australia, Perth, Australia
+* **Beomjin Jin**, Sungkyunkwan University, Suwon, Republic of Korea
+* **Jusop Choi**, Sungkyunkwan University, Suwon, Republic of Korea
+* **Hyoungshick Kim**, Sungkyunkwan University, Suwon, Republic of Korea
+* **Jin B. Hong**, University of Western Australia, Perth, Australia
 
 ## Installation
 ```
