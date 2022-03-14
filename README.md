@@ -29,6 +29,7 @@ $ . ./venv/bin/activate
 ```
 
 ## If an error occurs... try:
+error: cffi.VerificationError: CompileError: command 'x86_64-linux-gnu-gcc' failed with exit status 1
 ```
 $ sudo apt install libfuzzy-dev
 ```
