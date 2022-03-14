@@ -28,6 +28,11 @@ $ . ./venv/bin/activate
 (venv) $ pip install -r requirements.txt
 ```
 
+## If an error occurs... try:
+```
+$ sudo apt install libfuzzy-dev
+```
+
 ## Cuckoo sandbox execution
 cuckoo.py has to be run on another window before running FUMVar.py.
 ```
