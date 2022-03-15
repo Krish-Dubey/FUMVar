@@ -31,7 +31,16 @@ $ . ./venv/bin/activate
 ## If an error occurs... try:
 error: cffi.VerificationError: CompileError: command 'x86_64-linux-gnu-gcc' failed with exit status 1
 ```
-$ sudo apt install libfuzzy-dev
+$ sudo apt-get install libfuzzy-dev
+```
+
+You would also need to install virtualbox
+```
+$ sudo apt-get install virtualbox-qt
+```
+And this:
+```
+$ sudo apt-get install xvfb
 ```
 
 ## Cuckoo sandbox execution
