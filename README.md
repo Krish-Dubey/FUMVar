@@ -21,6 +21,8 @@ $ git clone https://github.com/FUMVar/FUMVar.git
 * pefile
 * pyvirtualdisplay
 
+## Before anything, install cuckoo sandbox first
+
 ## Virtual environment setting
 ```
 $ virtualenv -p python3 venv
